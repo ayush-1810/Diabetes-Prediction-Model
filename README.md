@@ -1,1 +1,1 @@
-# Diabetes-Prediction-Model
+# Diabetic-Person-Case-Study
